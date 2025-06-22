@@ -5,6 +5,6 @@ acccity="jaipur"
 
 //accId=2
 console.log(accId);
-console.table([accId,accemail,accpass,acccity])
+console.table([accId,accemail,accpass,accciy])
 
 
