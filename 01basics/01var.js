@@ -4,7 +4,8 @@ var accpass="12345"
 acccity="jaipur"
 
 //accId=2
-console.log(accId);
-console.table([accId,accemail,accpass,accciy])
+
+
+console.log(2+3+"3"+3+2) //5322 affter 1st string all number will be string
 
 
